@@ -1,0 +1,8 @@
+{
+  "name": "telegram-bot-shopee",
+  "author": "Lo9ic",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
